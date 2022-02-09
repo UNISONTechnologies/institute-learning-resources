@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Unit 1: Motion in One Dimension",
+        "description": "Motion in only one direction, horizontally or vertically",
+        "filename": "motion-in-one-dimension",
+        "latex": true
+    },
+    {
+        "id": 2,
+        "name": "Unit 2: Vectors",
+        "description": "A vector is an object that has both a magnitude and a direction",
+        "filename": "vectors",
+        "latex": true
+    },
+    {
+        "id": 3,
+        "name": "Unit 3: Motion in Two Dimensions",
+        "description": "Motion in two directions, horizontally and vertically",
+        "filename": "motion-in-two-dimensions",
+        "latex": true
+    },
+    {
+        "id": 4,
+        "name": "Unit 4: Forces",
+        "description": "A force is a push or pull upon an object resulting from the object's interaction with another object",
+        "filename": "forces",
+        "latex": true
+    },
+    {
+        "id": 6,
+        "name": "Unit 6: Fundamental Interactions and Particles",
+        "description": "The fundamental interactions, also known as fundamental forces, are the interactions that do not appear to be reducible to more basic interactions",
+        "filename": "fundamental-interactions-and-particless",
+        "latex": true
+    }
+]
