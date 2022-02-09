@@ -31,7 +31,28 @@
         "id": 6,
         "name": "Unit 6: Fundamental Interactions and Particles",
         "description": "The fundamental interactions, also known as fundamental forces, are the interactions that do not appear to be reducible to more basic interactions",
-        "filename": "fundamental-interactions-and-particless",
+        "filename": "fundamental-interactions-and-particles",
+        "latex": true
+    },
+    {
+        "id": 7,
+        "name": "Unit 7: Work, Energy, and Power",
+        "description": "Work, energy, and power are fundamental concepts of physics",
+        "filename": "work-energy-and-power",
+        "latex": true
+    },
+    {
+        "id": 8,
+        "name": "Unit 8: Momentum",
+        "description": "The quantity of motion of a moving body, measured as a product of its mass and velocity.",
+        "filename": "momentum",
+        "latex": true
+    },
+    {
+        "id": 9,
+        "name": "Unit 9: Rotational Motion",
+        "description": "The motion of a rigid body which takes place in such a way that all of its particles move in circles about an axis with a common angular velocity",
+        "filename": "rotational-motion",
         "latex": true
     }
 ]

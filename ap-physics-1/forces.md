@@ -1,4 +1,3 @@
-## Definitions
 - Inertia
     - The tendency of an object to resist changes in motion
     - Newton's First Law

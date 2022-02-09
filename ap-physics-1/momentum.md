@@ -1,0 +1,26 @@
+- How to quantify the amount of motion an object has
+  - Velocity and mass (tendency of an object to keep moving)
+  - Émilie du Châtelet
+    - Derived the kinetic energy formula ($\frac{1}{2}mv^2$)
+  - Sir Isaac Newton
+    - Derived the momentum formula
+- Momentum ($P$)
+  - Formula: $p = mv$
+  - Unit: $\frac{kgm}{s}$ (kilogram meters over seconds)
+- Newton's second law
+  - Formula (assuming constant mass): $F = ma$
+  - Derived formula: $F = \frac{p_{f} - p_{0}}{t}$ (the change in momentum over time)
+    - Expanded: $F = \frac{m_{f}v_{f} - m_{0}v_{0}}{t}$
+    - Assuming constant mass: $F = \frac{m_{f}v_{f} - m_{0}v_{0}}{t} = F = \frac{m(v_{f} - v_{0})}{t} = ma$
+  - If no net force is applied to a system, then the system's change in momentum will be zero
+    - **Conservation of momentum**
+- $\overrightarrow{p} = m\overrightarrow{v}$
+  - Momentum is a vector
+- Elastic collision
+  - Kinetic energy is conserved during this event
+- Inelastic collision
+  - Kinetic energy is **not** conserved
+- $p_{f} - p_{0} = F_{net}t$
+  - Impulse
+  - Change in momentum
+  - Units are the same as momentum
