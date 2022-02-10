@@ -19,7 +19,7 @@
     - The force transmitted by a string, wire, etc.
 - Force of Gravity/Weight (\(F_{g} = ma_{g}\))
     - Near or at the surface of Earth
-- Normal Force (\(F_{N} $$)
+- Normal Force (\(F_{N}\))
     - The force created by a surface, perpendicular/normal to the resistance
 - Force of Friction (\(F_{f}\))
     - The force exerted by a surface, parallel to that surface (compared to normal force)
@@ -29,7 +29,7 @@
         - Between surfaces that are not moving, relative to each other
         - Potential to be the largest friction force
         - The size of the force of static friction is influenced by the size of the applied force
-        - The formula \(F_{f} = \mu{s}F_{N} $$ returns the maximum possible value of the force of static friction
+        - The formula \(F_{f} = \mu{s}F_{N}\) returns the maximum possible value of the force of static friction
             - It's the minimum force you need to apply before an object begins to move
 - Coefficient of Friction
     - Which types of surfaces are in contact

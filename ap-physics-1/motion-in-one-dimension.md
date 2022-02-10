@@ -1,10 +1,10 @@
 ## Distance and Displacement
 - Displacement: How far something is from its original position
-  - Initial: {% raw %} $$ x_{0} $$ {% endraw %}
-  - Final: {% raw %} $$ x \text{ or } x_{F} $$ {% endraw %}
-- Average Speed: {% raw %} $$ \frac{\text{distance travelled}}{\text{time}} $$ {% endraw %}
-- Average Velocity: {% raw %} $$ \frac{\text{displacement}}{\text{time}} $$ {% endraw %}
+  - Initial: \(x_{0}\)
+  - Final: \(x \text{ or } x_{F}\)
+- Average Speed: \(\frac{\text{distance travelled}}{\text{time}}\)
+- Average Velocity: \(\frac{\text{displacement}}{\text{time}}\)
 
 ## Acceleration
-- Acceleration ({% raw %} $$ a $$ {% endraw %})
+- Acceleration (\(a\))
   - Measures the rate at which velocity changes as a fraction of time
