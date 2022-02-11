@@ -1,0 +1,14 @@
+[
+    {
+        "id": 3,
+        "name": "Industrialization",
+        "description": "The Industrial Revolution was an epoch during the first 100 years of United States history where the economy progressed from manual labor and farm labor to a greater degree of industrialization based on labor",
+        "filename": "industrialization"
+    },
+    {
+        "id": 6,
+        "name": "An Expanding Nation",
+        "description": "American Expansion: justified or immoral?",
+        "filename": "an-expanding-nation"
+    }
+]

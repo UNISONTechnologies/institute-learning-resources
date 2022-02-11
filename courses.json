@@ -2,7 +2,11 @@
     {
         "id": "ap-physics-1",
         "name": "AP Physics 1",
-        "teacher": "Guthrie, L.",
         "description": "AP Physics 1 is an algebra-based, introductory college-level physics course. Students cultivate their understanding of physics through classroom study, in-class activity, and hands-on, inquiry-based laboratory work as they explore concepts like systems, fields, force interactions, change, conservation, and waves."
+    },
+    {
+        "id": "us-history",
+        "name": "U.S. History",
+        "description": "United States History and Geography is a survey course of late nineteenth through twenty-first century American history, starting with a brief review of democratic foundations and the impact of the Civil War. "
     }
 ]

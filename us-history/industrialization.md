@@ -1,0 +1,41 @@
+**Revolution**
+- A sudden political overthrow/seizure of power brought about from within a great system
+- Activities directed towards bringing about basic changes in the socioeconomic structure
+
+## Industrial Revolution
+- Originated in England
+- Fudamentally altered social/economic bases of life
+  - First in Europe, then the rest of the world
+- Refers to the greatly-increased output of machine-made goods
+- Replaced the cottage industry
+- Three "must-haves" to industralize
+  - Also known as "factors of production"
+  - Example: Britain
+    - Land
+      - Climate is good for textile production
+      - Lots of natural resources (e.g. coal)
+    - Labour
+      - Growing population
+      - Many moving to cities, away from rural areas
+    - Capital
+      - Internal trade encouraged
+      - Helped build canals/roads
+- Natural Resources (U.S.)
+  - Oil ("black gold")
+    - Found in Kentucky, Ohio, Illinois, Indiana, and Texas
+    - Used for kerosene (lamps), gasoline byproduct (dumped, no ICE)
+  - Coal/iron ore
+    - Found in the Midwest
+    - Used for fuel and building material
+    - Iron: dense, soft, fragile, tends to rust
+      - Removing carbon made it stronger, more flexible, lighter, and rust-resistant
+      - Smelted into steel via the Bessemer process
+        - Used for farming, architecture, and construction (e.g. bridges and skyscrapers)
+- Vertical Integration
+  - Control all aspects of one production
+    - E.g. SpaceX
+    - Buy out suppliers
+    - Own manufacturing plants
+    - Controlled distribution
+- Horizontal Integration
+  - Control all of one aspect of production

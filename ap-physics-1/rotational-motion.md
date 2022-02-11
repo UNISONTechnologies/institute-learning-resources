@@ -1,27 +1,27 @@
 - Position
   - Displacement
-    - \(x, y, z\)
-    - metres
+    - Variable: \(x, y, z\)
+    - Unit: metres
   - Angular displacement
-    - \(\theta\)
-    - radians (\(rad\))
+    - Variable: \(\theta\)
+    - Unit: radians (\(rad\))
 - How fast an object is moving
   - Velocity
-    - \(v\)
-    - \(\frac{m}{s}\)
+    - Variable: \(v\)
+    - Unit: \(\frac{m}{s}\)
   - Angular velocity
-    - \(\omega\)
-    - \(\frac{rad}{s}\)
+    - Variable: \(\omega\)
+    - Unit: \(\frac{rad}{s}\)
 - How quickly an object changes speed
   - Acceleration
-    - \(a\)
-    - \(\frac{m}{s^2}\)
+    - Variable: \(a\)
+    - Unit: \(\frac{m}{s^2}\)
     - Formulas:
       - \(a = \frac{v - v_{0}}{t}\)
       - \(v = v_{0} + at\)
   - Angular acceleration
-    - \(\alpha\)
-    - \(\frac{rad}{s^2}\)
+    - Variable: \(\alpha\)
+    - Unit: \(\frac{rad}{s^2}\)
     - Formulas:
       - \(\alpha = \frac{\omega - \omega_{0}}{t}\)
       - \(\omega = \omega_{0} + {\alpha}t\)
@@ -42,3 +42,8 @@
     - Where force is applied (in relation to the rotation point)
   - Unit: Newton-metres
   - Direction matters
+  - A force applied, in line with a particular point, will not cause a torque around that point
+- Net torque (\(\tau_{net}\))
+  - The sum of torques about a point on a system
+  - If there is no acceleration, the net force is equal to 0 Newtons
+  - If there is no angular accleration, the net torque is equal to 0 Newton-metres
