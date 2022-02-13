@@ -20,10 +20,10 @@
   - Unit: 1 Coulomb (\(C\))
   - Variable: \(q \text{ or } Q\)
     - Lowercase is more popular
-    - Constant: \(e = 1.602 \times 10^{-19} \text{ C}\)
+    - Constant: \(e = 1.602 \times 10^{-19} \text{ } C}\)
   - Charges
-    - Protons: \(q_{p} = e = 1.602 \times 10^{-19} \text{ C}\) 
-    - Electons: \(q_{e} = -e = -1.602 \times 10^{-19} \text{ C\) 
+    - Protons: \(q_{p} = e = 1.602 \times 10^{-19} \text{ } C}\) 
+    - Electrons: \(q_{e} = -e = -1.602 \times 10^{-19} \text{ } C\) 
   - Opposite charges attract
   - Like charges repel
 - Formula: \(F_{E} = k_{e} \frac{q_{1} \times q_{2}}{r^2}\)
