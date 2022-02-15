@@ -10,5 +10,11 @@
         "name": "An Expanding Nation",
         "description": "The westward expansion of the United States during the 19th century was not limited to North America, but rather included an ongoing push to establish a stronger U.S. presence in and across the Pacific Ocean",
         "filename": "an-expanding-nation"
+    },
+    {
+        "id": 7,
+        "name": "The Great War",
+        "description": "World War I, often abbreviated as WWI or WW1, also known as the First World War or the Great War, was an international conflict that began on 28 July 1914 and ended on 11 November 1918.",
+        "filename": "the-great-war"
     }
 ]
