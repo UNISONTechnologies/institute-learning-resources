@@ -18,7 +18,7 @@ Conjugate in the él/ella form, unless the verb is one of the following.
 
 If the verb has any pronouns (me, te, lo, la, los, las, nos, le, les), add them to the end of the conjugated verb and add an accent on the third-to-last syllable.
 
-## Tú (negative), Usted, Ustedes
+## Tú (negative), Usted (you, formal), Ustedes (you all)
 1. Go to "yo"
 2. Drop the "o"
 3. Flip-flop the endings
