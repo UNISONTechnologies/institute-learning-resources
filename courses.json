@@ -8,5 +8,10 @@
         "id": "us-history",
         "name": "U.S. History",
         "description": "United States History and Geography is a survey course of late nineteenth through twenty-first century American history, starting with a brief review of democratic foundations and the impact of the Civil War. "
+    },
+    {
+        "id": "spanish-3",
+        "name": "Spanish 3",
+        "description": "This third-year language course enables students to develop intermediate proficiency in the four overarching goals of listening, speaking, writing, and reading. Students also develop an increasing awareness of the idiomatic aspects of language, continue practicing the present and past tenses, learn the present subjunctive tense, and continue studying the culture of Spanish-speaking countries."
     }
 ]
