@@ -1,3 +1,4 @@
+## Part I
 - Position
   - Displacement
     - Variable: \(x, y, z\)
@@ -47,3 +48,26 @@
   - The sum of torques about a point on a system
   - If there is no acceleration, the net force is equal to 0 Newtons
   - If there is no angular accleration, the net torque is equal to 0 Newton-metres
+  
+## Part II
+- Acceleration (\(a\))
+  - How dramatically the translational motion of an object changes
+- \(F = ma\)
+  - \(a\): how dramatic the change in translational is
+  - \(m\): inertia, how resistant the object is to changes in translational motion
+- Angular acceleration (\(\alpha\))
+  - How dramatically the rotational motion of an object changes
+- \(\tau = I\alpha\)
+  - \(\alpha\): how dramatic the change in rotational motion is
+  - \(I\): the momemnt of inertia/rotational inertica
+- Moment of Inertia (\(I\))
+  - The greater the mass, the greater the object's resistance to changes in rotational motion
+  - The greater the distance between the mass and the rotation point, the greater the object's resistance to changes in rotational motion
+  - \(I = \text{mass} \times \text{radius}^2\)
+    - \(I = mr^2\)
+  - Unit: kilogram-metres squared (\(kgm^2\))
+- Energy
+  - Translational kinetic energy: \(\frac{1}{2}mv^2\)
+  - Rotational kinetic energy: \(\frac{1}{2}I\omega^2\)
+  - Translational work: \(W = (x - x_{0})F\)
+  - Rotational work: \(W = (\theta - \theta_{0})\tau\)
