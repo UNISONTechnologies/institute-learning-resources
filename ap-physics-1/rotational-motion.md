@@ -22,7 +22,7 @@
       - \(v = v_{0} + at\)
   - Angular acceleration
     - Variable: \(\alpha\)
-    - Unit: \(\frac{rad}{s^2}\)
+    - Unit: \(\frac{rad}{s^2}\) (radians over seconds squared)
     - Formulas:
       - \(\alpha = \frac{\omega - \omega_{0}}{t}\)
       - \(\omega = \omega_{0} + {\alpha}t\)
@@ -71,3 +71,24 @@
   - Rotational kinetic energy: \(\frac{1}{2}I\omega^2\)
   - Translational work: \(W = (x - x_{0})F\)
   - Rotational work: \(W = (\theta - \theta_{0})\tau\)
+- Momentum (\(p\))
+  - Quantification of translational motion in an object/system
+  - \(p = mv\)
+  - Unit: \(\frac{kgm}{s}\) (kilogram-metres over seconds)
+  - \(F = \frac{p_{f} - p_{0}}{t}\)
+  - Force changes momentum
+- Angular momentum (\(L\))
+  - Quantification of rotational motion in an object/system
+  - Unit:\(\frac{kgm^2}{s^2}\) (kilogram-metres squared over seconds squared)
+  - \(L = I\alpha\)
+  - \(\tau = \frac{L_{f} - L_{0}}{t}\)
+  - Torque changes angular momentum
+- Changes in velocity are observable without a net external force
+- If no net torque is applied to a system, there is no change in angular momentum, therefore, angular momentum is conserved
+  - **Conservation of angular momentum**
+  - Third conservation law
+- \(\tau = 0 \text{ } Nm = \frac{L_{f} - L_{0}}{t}\)
+  - \(L_{f} - L_{0} = 0 \text{ } \frac{kgm^2}{s^2}\)
+  - \(L_{0} = L_{f}\)
+  - \(I_{0}\omega_{0} = I_{f}\omega_{f}\)
+  - \(m{r_{0}}^2\omega_{0} = m{r_{f}}^2\omega_{f}\)
