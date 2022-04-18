@@ -54,5 +54,12 @@
         "description": "The motion of a rigid body which takes place in such a way that all of its particles move in circles about an axis with a common angular velocity",
         "filename": "rotational-motion",
         "latex": true
+    },
+    {
+        "id": 11,
+        "name": "Unit 11: Sound",
+        "description": "A vibration that propagates as an acoustic wave, through a transmission medium such as a gas, liquid or solid.",
+        "filename": "sound",
+        "latex": true
     }
 ]

@@ -1,0 +1,40 @@
+- Mechanical vibrations
+- Speed
+  - Affected by the bonding between particles
+    - Strongest: solid
+    - Negligible: gas
+    - Speeds
+      - Air (0ºC): \(331 \frac{m}{s}\)
+      - Water: \(1490 \frac{m}{s}\)
+      - Copper: \(3560 \frac{m}{s}\)
+  - Affected by the inertia of the medium
+    - Different particles at STP
+      - 22.4 L of air: 28 g
+      - 22.4 L of helium: 4 g
+    - As temperature increases, particle density decreases
+  - \(v_{\text{air}} = 331 + 0.6T\)
+    - \(T\) represents the temperature in Celsius
+    - 20ºC is an average classroom temperature
+- Frequency = Pitch
+  - Average human range: 20 - 20,000 Hz
+  - Ultrasonic (higher than humans)
+    - Dogs: 40 - 60,000 Hz
+    - Bats: ? - 100,000 Hz
+  - Infrasonic (lower than humans)
+    - Elephants: 14 - 12,000 Hz
+- Amplitude = Volume
+  - Intensity (\(I\)): The amount of power carried by sound per square meter
+    - Units: Watt per square meter (\(\frac{W}{m^2}\))
+      - 1 Watt = 1 Joule per second
+    - Threshold of human hearing: \(I_{0} = 1 \times 10^{-12} \frac{W}{m^2}\)
+    - Instantaneous damage to eardrum: \(I = 1 \frac{W}{m^2}\)
+  - Intensity level (\(\beta\)): Related to the amount of power carried by sound
+    - Units: bels or decibels (dB)
+      - Named after Alexander Graham Bell
+    - Relationship
+      - \(\beta = 10 \text{ } log \text{ } [\frac{I}{I_0}]\)
+        - \(I\) is the intensity of the sound being observed
+        - \(I_{0}\) is the threshold of human hearing
+      - Examples
+        - \(1 \times 10^{-12} \frac{W}{m^2} = 0 \text{ dB}\)
+        - \(1 \frac{W}{m^2} = 120 \text{ dB}\)
