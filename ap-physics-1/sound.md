@@ -38,3 +38,8 @@
       - Examples
         - \(1 \times 10^{-12} \frac{W}{m^2} = 0 \text{ dB}\)
         - \(1 \frac{W}{m^2} = 120 \text{ dB}\)
+- Velocity of a wave
+  - Inertia (density)
+  - Restoring force (e.g. tension, bonding)
+  - \(v = {\lambda}f\)
+    - As frequency increases, wavelength decreases, and vice versa
